@@ -1,1 +1,5 @@
-# spring-boot-demo
+# Spring Boot Demo
+
+## License
+
+[MIT](./LICENSE)
