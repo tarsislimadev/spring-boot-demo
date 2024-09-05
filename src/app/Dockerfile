@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . .
 
-# RUN ./gradlew
+RUN gradle
 
-CMD ./gradlew bootRun
+CMD gradle bootRun
